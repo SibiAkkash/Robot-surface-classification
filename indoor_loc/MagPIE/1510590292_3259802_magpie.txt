@@ -1,0 +1,10 @@
+Description:
+MagPIE is a publicly available dataset for the evaluation of indoor positioning algorithms that use magnetic anomalies. Our dataset contains IMU and magnetometer measurements along with ground truth position measurements that have centimeter-level accuracy. To produce this dataset, we collected over 13 hours of data (51 kilometers of total distance traveled) from three different buildings, with sensors both handheld and mounted on a wheeled robot, in environments with and without changes in the placement of objects that affect magnetometer measurements ("live loads'').
+
+Authors
+D. Hanley, A. B. Faustino, S. D. Zelman, D. A. Degenhardt, and T. Bretl
+
+Url:
+http://bretl.csl.illinois.edu/magpie/
+
+
